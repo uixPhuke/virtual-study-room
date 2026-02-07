@@ -48,10 +48,10 @@ This project is ideal for students, remote learners, and professionals who want 
 
 > Example stack (adjust based on your implementation)
 
-- **Frontend:** React / Next.js / Vue
+- **Frontend:** React 
 - **Backend:** Node.js + Express
-- **Real-time:** WebSockets / Socket.IO
-- **Database:** MongoDB / Firebase / PostgreSQL
+- **Real-time:**  Socket.IO
+- **Database:** MongoDB / Firebase 
 - **Authentication:** JWT / OAuth / Firebase Auth
 - **Styling:** Tailwind CSS / CSS Modules
 
