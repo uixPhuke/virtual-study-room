@@ -68,7 +68,7 @@ This project is ideal for students, remote learners, and professionals who want 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/virtual-study-room.git
+git clone https://github.com/uixPhuke/virtual-study-room.git
 
 # Navigate to the project directory
 cd virtual-study-room
