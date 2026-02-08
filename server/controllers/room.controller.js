@@ -1,4 +1,4 @@
-const Room = require("../models/Room.model");
+const Room = require("../models/roomSchema");
 
 const createRoom = async (req, res) => {
   const room = await Room.create({
